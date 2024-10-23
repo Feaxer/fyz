@@ -1,0 +1,32 @@
+.bubble {
+    background-color: #FFF0E5;
+    width: 540px;
+    margin-left: auto;
+    padding: 25px 30px;
+    margin-bottom: 30px;
+    margin-right: 120px;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.bubble-icon {
+    background: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.bubble-icon img {
+    width: 80px;
+    height: 80px;
+}
+
+.bubble-text {
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 1.25;
+    font-family: "Open Sans", sans-serif;
+    color: #2A343E;
+    margin: 0;
+    margin-left: 15px;
+}
